@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/fundo.png);
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    margin: 0 10px;
+    padding: 20px;
+    color: blue;
+}
+.containerPrincipal{
+    width: 900px;
+    margin: 0 auto;
+}
+.containerPrincipal p{
+    text-align: center;
+}
+.bordaImg{
+    border: 8px solid blue;
+}
+
+.containerMenu{
+    padding: 20px 0;
+    text-align: center;
+}
+.containerMenu a{
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(0, 68, 255);
+}
+.conteudo{
+    background-color: lightyellow;
+}
+.rodape{
+    text-align: center;
+}
+
